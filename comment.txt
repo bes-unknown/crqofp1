@@ -1,0 +1,9 @@
+you can type comments like:
+  circle 200 200 20
+  line 200 200 300 300
+  lines 200 200 300 300
+  funca X*X
+  funcb X*X
+  funcc X*X
+  func+a math.sqrt(16-4*X*X)
+  func+b X**3
